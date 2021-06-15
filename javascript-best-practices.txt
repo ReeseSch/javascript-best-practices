@@ -1,0 +1,10 @@
+1: Comment as much as needed, but not more.
+2: Dont yeild to browser whims (dont build with one browser in mind)
+3: Avoid heavy nesting
+4: Stick to a strict coding style
+5: Avoid globals
+6: Declare variables at top
+7: Use === Comparison
+8: Try to use local variables as much as possible
+9: Never declare number, string, or boolean objects
+10: End your switches with defaults
